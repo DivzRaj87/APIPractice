@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfferApi", "OfferApi\OfferApi.csproj", "{EE286E01-6075-4753-BA9F-CCBCC01AB45C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE286E01-6075-4753-BA9F-CCBCC01AB45C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE286E01-6075-4753-BA9F-CCBCC01AB45C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE286E01-6075-4753-BA9F-CCBCC01AB45C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE286E01-6075-4753-BA9F-CCBCC01AB45C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AE15EDD-57BF-46FC-BFA4-AF3AB7ABE5B4}
+	EndGlobalSection
+EndGlobal
